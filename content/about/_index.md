@@ -1,7 +1,7 @@
 ---
 featured_image: "logo.jpg"
 title: "About Me"
-description: "In short terms , I am a computer nerd ? :)) hacker, immature kid and memer"
+description: "In short terms , I am a computer nerd ? :)) hacker, imature kid and memer"
 
 ---
 
@@ -48,6 +48,13 @@ Eye color : blue and brown
 Coat : black and white with a black shaped heart on his chest  
 
 Helps me focus on ctfs  =))))))  
+## My setup 
+I have an macbook pro late 2018 with Big Sur  
+VMs :  
+Blackarch - for hacking(with the xfce / flubox config)    
+Ubuntu - blog  
+Kali - running fork bombs  
+
 
 That's all for now , thank you for reading ❤️ !
 
