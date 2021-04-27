@@ -1,0 +1,34 @@
+baseURL = "http://www.pshacker.ninja"
+languageCode = "en-us"
+title = "PS-blog"
+theme = "ananke"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 7 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+  
+ [params]
+  favicon = ""
+  site_logo = ""
+  description = "A random way of sharing my thoughts"
+  facebook = ""
+  twitter = "https://twitter.com/pslittlekid"
+  instagram = ""
+  youtube = ""
+  github = "https://github.com/PS-anon"
+  gitlab = ""
+  linkedin = "https://www.linkedin.com/in/adrian-constantin-mangu-61a9b21bb/"
+  mastodon = ""
+  slack = ""
+  stackoverflow = ""
+  rss = ""
+  
+  background_color_class = "bg-black"
+  featured_image = "logo.jpg"
+  recent_posts_number = 5
