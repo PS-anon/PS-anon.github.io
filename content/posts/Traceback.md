@@ -3,6 +3,7 @@ featured_image: "/posts/Traceback/traceback.png"
 title : HTB 17/20 Traceback
 published : true
 date: 2021-04-26
+description: "Traceback Writeup"
 author : PS
 ---
 ## Foothold
