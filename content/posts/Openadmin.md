@@ -1,8 +1,8 @@
 ---
-featured_image: "/posts/Openadmin/openadmin.png"
+featured_image: "/posts/Openadmin/openadmin.jpg"
 title : HTB 16/20 OpenAdmin
 published : true
-date: 2021-04-24
+date: 2021-04-25
 author : PS
 ---
 ## Foothold
