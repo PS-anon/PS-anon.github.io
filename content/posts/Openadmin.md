@@ -26,7 +26,7 @@ Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
 Nmap done: 1 IP address (1 host up) scanned in 11.30 seconds
 ```
-![img](Pasted image 20210428192756.png)
+![img](1.png)
 Lulzzzzbuster Timeeeeeeeeeeeeeeeeee
 ```bash
 [+] final settings
@@ -60,14 +60,14 @@ Lulzzzzbuster Timeeeeeeeeeeeeeeeeee
 
 [+] game over
 ```
-![img](Pasted image 20210428193228.png)
+![img](2.png)
 Clicking on the login button :
-![img](Pasted image 20210428193246.png)
+![img](3.png)
 lolz :))  
-![img](Pasted image 20210428193339.png)
+![img](4.png)
 Oh damn :))  
 So vuln :))  
-![img](Pasted image 20210428193537.png)
+![img](5.png)
 :)) sad  
 ```bash
 >>> python3 ona-rce.py exploit http://10.10.10.171/ona/
@@ -183,7 +183,7 @@ udp        0      0 127.0.0.53:53           0.0.0.0:*                           
 I see something on the  52846 port  
 Run ```bash ssh jimmy@10.10.10.171 -L 80:127.0.0.1:52846```  
 To listen for the port on your pc  
-![img](Pasted image 20210428195234.png)  
+![img](6.png)  
 Since we are talking about web apps , a good practice is to double check /var/www/ :
 ```bash
 jimmy@openadmin:~$ cd /var/www
@@ -211,7 +211,7 @@ Index.php reveals the password :
 ```
 that sha512 -> Revealed
 So let's login
-![img](Pasted image 20210428195713.png)
+![img](7.png)
 Hmm we need to decrypt the key now  
 PS cracks it and get the password  bloodninjas  
 Let's ssh with it  
