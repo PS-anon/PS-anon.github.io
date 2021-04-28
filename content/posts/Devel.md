@@ -1,6 +1,6 @@
 ---
 featured_image: "/posts/Devel/devel.png"
-title : HTB 14/20 Ready
+title : HTB 14/20 Devel
 published : true
 date: 2021-04-23
 author : PS
