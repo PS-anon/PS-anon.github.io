@@ -1,5 +1,5 @@
 ---
-featured_image: "/posts/Openadmin/openadmin.jpg"
+featured_image: "/posts/Openadmin/openadmin.png"
 title : HTB 16/20 OpenAdmin
 published : true
 date: 2021-04-25
