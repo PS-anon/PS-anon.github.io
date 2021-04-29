@@ -21,7 +21,7 @@ He also owns some dogs(we will discuss about them later)
 
 ## About PS's cyber security life  
 PS started to work on cyber security at the age of 13 when he got bored of coding  
-He started with simple things and worked his was up to bug bounty , where he started making some money(I will release one day a blog post on how to get started on bug bounty) I am 100% that at the time I started bb I was in the top 3 yougest hunters, after some time , PS had to quit bug bounty because of school , he was really behind stuff there and I was putting to much work on bug bounty , after finishing the school stuff and getting big grades I returned to cyber security.  
+He started with simple things and worked his way up to bug bounty , where he started making some money(I will release one day a blog post on how to get started on bug bounty) I am 100% that at the time I started bb I was in the top 3 yougest hunters, after some time , PS had to quit bug bounty because of school , he was really behind stuff there and I was putting to much work on bug bounty , after finishing the school stuff and getting big grades I returned to cyber security.  
 There PS started on learning CTFs, I was never good at CTFs mostly because of the mentality that the app is already vuln to something and your creativity goes mostly on a limited scale , which is cool but I much prefer the bug bounty mentality, is just you and the app, a hole app not just a part of it.  
 Shortly after starting CTFs I was lucky enough to join the CODWER team , which is one of the best teams :D , I feel that my skills had greatly improved in a really short period of time.  
 Let's not forget about Hackthebox where you have to hack machines , which is cool too , but still the CTF style XD.  
@@ -62,10 +62,21 @@ Kali - running fork bombs
 ## Future plans  
 1) Get better at CTFs  
 2) Finish some websites/ideas  
-3) Help more the Blackarch team  
+3) Help with the development of Blackarch  
 4) Create Death Note 2 (tool)  
 5) Finish school  
 6) Have quality content on this blog   
+
+## Cool people/places to check :
+https://blackarch.org/
+https://blog.kuhi.to/
+https://antoniomacovei.com/#home
+https://nullsecurity.net/
+https://cyberedu.ro/
+https://app.hackthebox.eu/
+
+## Typo Hunters :
+Trinex
 
 That's all for now , thank you for reading ❤️ !
 
