@@ -7,13 +7,7 @@ description: "In short terms , I am a computer nerd ? :)) hacker, imature kid an
 
 *Part still in development*
 
-## Basic info a.k.a *I stalk PS* 
-I am 16 yr old    
-1.82~84 m tall  
-Long hair  
-Love the color light blue  
-Brown-greenish eyes   
-From .ro  
+
 
 ## Who I am(as PS)  
 I am a normal skid who spends most of his time on the internet between  developing tools, listening to music, trolling, hacking, shitposting, spamming and playing chess    
