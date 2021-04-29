@@ -1,7 +1,7 @@
 ---
 featured_image: "henlo.png"
 title: "About Me"
-description: "In short terms , I am a computer nerd ? :)) hacker, imature kid and memer, strage person who usually refers to him in the third person "
+description: "In short terms , I am a computer nerd ? :)) hacker, imature kid and memer, strange person who usually refers to him in the third person "
 
 ---
 
