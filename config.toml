@@ -27,7 +27,7 @@ enableRobotsTXT = true
   mastodon = ""
   slack = ""
   stackoverflow = ""
-  rss = ""
+  rss = "http://fetchrss.com/rss/608ac0c41b645b44ab22e362608ac0b1b521ef74d96475c3.xml"
   
   background_color_class = "bg-black"
   featured_image = "logo.jpg"
