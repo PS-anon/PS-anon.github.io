@@ -23,7 +23,7 @@ He also owns some dogs(we will discuss about them later)
 PS started to work on cyber security at the age of 13 when he got bored of coding  
 He started with simple things and worked his was up to bug bounty , where he started making some money(I will release one day a blog post on how to get started on bug bounty) I am 100% that at the time I started bb I was in the top 3 yougest hunters, after some time , PS had to quit bug bounty because of school , he was really behind stuff there and I was putting to much work on bug bounty , after finishing the school stuff and getting big grades I returned to cyber security.  
 There PS started on learning CTFs, I was never good at CTFs mostly because of the mentality that the app is already vuln to something and your creativity goes mostly on a limited scale , which is cool but I much prefer the bug bounty mentality, is just you and the app, a hole app not just a part of it.  
-Shortly after starting CTFs I was lucky enough to join the CODWER team , which is one of the best teams :D , I feel that my skills had greatly improved in a really shot period of time.  
+Shortly after starting CTFs I was lucky enough to join the CODWER team , which is one of the best teams :D , I feel that my skills had greatly improved in a really short period of time.  
 Let's not forget about Hackthebox where you have to hack machines , which is cool too , but still the CTF style XD.  
 
 ## The nickname PS
