@@ -16,7 +16,7 @@ Brown-greenish eyes
 From .ro  
 
 ## Who I am(as PS)  
-I am a normal skid who spends most of his time on the internet between  developing tools, listening to music, trolling, hacking, shitposting, spamming    
+I am a normal skid who spends most of his time on the internet between  developing tools, listening to music, trolling, hacking, shitposting, spamming and playing chess    
 
 ## Who I am(as Adrian)
 Although Adrian and PS may seem to be the same person, THEY ARE NOT , PS represents the internet side of Adrian , while the real life guy is, well, me :))  
