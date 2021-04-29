@@ -35,7 +35,7 @@ PS listens to rap/jazz
 Rap keeps me alive and jazz keeps me calm, focus and relaxed.  
 I do have a favourite artist, is G-Eazy, he has some really nice songs, I especially like the album "Everything is strange here", but I listen to other rappers too : Drake, 2Pac, Biggie, Polo G, Da Baby, N.W.A., 50 Cent ...  
 Fav song : G-Eazy Every Night Of The Year  
-I do not really have a fav jazz artist, I mostly liten to a random playlist.
+I do not really have a fav jazz artist, I mostly listen to a random playlist.
 
 ## Husky Owner 
 Another childhood dream was to own a Husky , which I do now :)  
