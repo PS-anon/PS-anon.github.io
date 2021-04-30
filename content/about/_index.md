@@ -74,6 +74,7 @@ https://antoniomacovei.com/#home
 https://nullsecurity.net/
 https://cyberedu.ro/
 https://app.hackthebox.eu/
+https://rawsec.ml/
 
 ## Typo Hunters :
 Trinex
