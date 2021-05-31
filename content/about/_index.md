@@ -77,7 +77,7 @@ https://app.hackthebox.eu/
 https://rawsec.ml/
 
 ## Typo Hunters :
-Trinex
+Trinex, Hikari
 
 That's all for now , thank you for reading ❤️ !
 
